@@ -51,7 +51,7 @@ object **fandion13** {
 <a href="https://github.com/fandion13/myfinance-web-dotnet"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=fandion13&repo=myfinance-web-dotnet&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&hide_border=true" alt="myfinance-web-dotnet"/></a>
 </p>
 
-<br> Vibing to : 🎧  </strong></p>
+**Vibing to :** 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wolf_brasil&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
