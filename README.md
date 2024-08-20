@@ -9,7 +9,7 @@ I have a passion for learning new technologies so I'm always exploring and learn
 ```
 object **fandion13** {
  val name = "Filipe Andion Castro"
- val role = "Fullstack Developer"
+ val role = "Fullstack Web Developer"
  val country = "Brazil"
  val languages = listOf("Portuguese", "English") 
 }
@@ -40,9 +40,8 @@ object **fandion13** {
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   
 ## **GitHub Stats**
-
-<a href="https://github.com/fandion13"><img align="center" src="https://github-readme-stats.vercel.app//api/?username=fandion13&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/fandion13"><img align="center" src="https://github-readme-stats.vercel.app//api/top-langs/?username=fandion13&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="https://github.com/fandion13"><img align="center" src="https://streak-stats.demolab.com?user=fandion13&theme=react&hide_border=true" alt="GitHub Streak" height="192px" /></a>
+<a href="https://github.com/fandion13"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fandion13&langs_count=8&layout=compact&theme=react&hide_border=true" height="192px"/></a>
 
 #### Socials!
 
