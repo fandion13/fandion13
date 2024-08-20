@@ -25,7 +25,6 @@ object **fandion13** {
 
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c#)
   ![.Net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet)
-  ![ASP.Net](https://img.shields.io/badge/-ASP.Net-333333?style=flat&logo=aspdotnet)
   ![DevExpress](https://img.shields.io/badge/-DevExpress-333333?style=flat&logo=devexpress)
   
   ![SQLServer](https://img.shields.io/badge/-SQL_Server-333333)
