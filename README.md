@@ -9,14 +9,13 @@ I have a passion for learning new technologies so I'm always exploring and learn
 <img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="20%"/>
 
 ```
-object **fandion13** {
- val name = "Filipe Andion Castro"
- val role = "Fullstack Web Developer"
- val country = "Brazil"
- val languages = listOf("Portuguese", "English") 
+const fandion13 = {
+ name: "Filipe Andion Castro",
+ role: "Fullstack Web Developer",
+ country: "Brazil",
+ languages: ["Portuguese", "English"]
 }
 ```
-
 
 <h2> :rocket: &nbsp; Skills </h2>
 
