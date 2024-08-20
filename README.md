@@ -1,4 +1,4 @@
-### Hey devs 👋
+### 👋 Hey devs
 
 I have a passion for learning new technologies so I'm always exploring and learning new stuff.
 
@@ -54,7 +54,7 @@ const fandion13 = {
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wolf_brasil&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-#### Socials!
+#### 📫 Socials!
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=fandion13.fandion13)](https://visitor-badge.laobi.icu/badge?page_id=fandion13.fandion13)
 [![Linkedin: Filipe Andion](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-andion-b810a0253/)](https://www.linkedin.com/in/filipe-andion-b810a0253/)
