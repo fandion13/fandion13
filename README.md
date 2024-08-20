@@ -39,6 +39,14 @@ object **fandion13** {
 <a href="https://github.com/fandion13"><img align="center" src="https://streak-stats.demolab.com?user=fandion13&theme=react&hide_border=true" alt="GitHub Streak" height="192px" /></a>
 <a href="https://github.com/fandion13"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fandion13&langs_count=8&layout=compact&theme=react&hide_border=true" height="192px"/></a>
 
+## 🗂️ **Projects**
+
+<a href="https://github.com/fandion13/ToDoList"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fandion13&repo=ToDoList&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ToDoList"/></a>
+<a href="https://github.com/fandion13/PWA"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fandion13&repo=PWA&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PWA"/></a>
+<a href="https://github.com/fandion13/WebAPI"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fandion13&repo=WebAPI&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="WebAPI"/></a>
+<a href="https://github.com/fandion13/myfinance-web-dotnet"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fandion13&repo=myfinance-web-dotnet&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="myfinance-web-dotnet"/></a>
+
+
 #### Socials!
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=fandion13.fandion13)](https://visitor-badge.laobi.icu/badge?page_id=fandion13.fandion13)
