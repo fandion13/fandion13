@@ -38,7 +38,7 @@ const fandion13 = {
   ![GitHub](https://img.shields.io/badge/GitHub-333333.svg?logo=github&logoColor=white)
   
 ## 📊 **GitHub Stats**
-<a href="https://github.com/fandion13"><img align="center" src="https://streak-stats.demolab.com?user=fandion13&theme=react&hide_border=true" alt="GitHub Streak" height="192px" /></a>
+<a href="https://github.com/fandion13"><img align="center" src="https://streak-stats.demolab.com?user=fandion13&theme=react&hide_border=true&card_width=220&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" height="192px"/></a>
 <a href="https://github.com/fandion13"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fandion13&langs_count=8&layout=compact&theme=react&hide_border=true" height="192px"/></a>
 
 ## 🗂️ **Projects**
