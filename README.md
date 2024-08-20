@@ -61,3 +61,23 @@ object **fandion13** {
 [![Linkedin: Filipe Andion](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-andion-b810a0253/)](https://www.linkedin.com/in/filipe-andion-b810a0253/)
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fandion13@gmail.com)](mailto:fandion13@gmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/fandion13?label=follow&style=social)](https://github.com/fandion13)
+
+<hr></hr>
+
+<div align="center" width="50">
+ 
+ **Code Cycle**<br>
+ 
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="10%"/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" width="10%"/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%"/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="10%"/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%"/><br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+ 
+</div>
