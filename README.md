@@ -6,6 +6,8 @@ I have a passion for learning new technologies so I'm always exploring and learn
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
+<img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="20%"/>
+
 ```
 object **fandion13** {
  val name = "Filipe Andion Castro"
@@ -14,6 +16,7 @@ object **fandion13** {
  val languages = listOf("Portuguese", "English") 
 }
 ```
+
 
 <h2> :rocket: &nbsp; Skills </h2>
 
@@ -47,6 +50,10 @@ object **fandion13** {
 <a href="https://github.com/fandion13/WebAPI"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=fandion13&repo=WebAPI&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&hide_border=true" alt="WebAPI"/></a>
 <a href="https://github.com/fandion13/myfinance-web-dotnet"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=fandion13&repo=myfinance-web-dotnet&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&hide_border=true" alt="myfinance-web-dotnet"/></a>
 </p>
+
+<br> Vibing to : 🎧  </strong></p>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wolf_brasil&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 #### Socials!
 
