@@ -44,7 +44,8 @@ const fandion13 = {
 ## 🗂️ **Projects**
 
 <p align="left">
- <a href="https://github.com/fandion13/myfinance-web-dotnet"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=fandion13&repo=myfinance-web-dotnet&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&hide_border=true" alt="myfinance-web-dotnet"/></a>
+<a href="https://github.com/fandion13/CursoNGRX"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=fandion13&repo=CursoNGRX&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&hide_border=true" alt="CursoNGRX"/></a>
+<a href="https://github.com/fandion13/myfinance-web-dotnet"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=fandion13&repo=myfinance-web-dotnet&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&hide_border=true" alt="myfinance-web-dotnet"/></a>
 <a href="https://github.com/fandion13/ToDoList"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=fandion13&repo=ToDoList&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&hide_border=true" alt="ToDoList"/></a>
 <a href="https://github.com/fandion13/PWA"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=fandion13&repo=PWA&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&hide_border=true" alt="PWA"/></a>
 <a href="https://github.com/fandion13/WebAPI"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=fandion13&repo=WebAPI&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&hide_border=true" alt="WebAPI"/></a>
